@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="25280" started-at="2018-11-18T20:20:33Z" finished-at="2018-11-18T20:20:58Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="25280" started-at="2018-11-18T20:20:33Z" finished-at="2018-11-18T20:20:58Z">
+      <class name="com.self.fb.org.testscript.TestScript">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.self.fb.org.testscript.TestScript@1bce4f0a]" name="launchBrowser" is-config="true" duration-ms="10532" started-at="2018-11-18T20:20:33Z" finished-at="2018-11-18T20:20:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.self.fb.org.testscript.TestScript@1bce4f0a]" name="loginTest" duration-ms="13855" started-at="2018-11-18T20:20:44Z" finished-at="2018-11-18T20:20:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="QuitBrowser()[pri:0, instance:com.self.fb.org.testscript.TestScript@1bce4f0a]" name="QuitBrowser" is-config="true" duration-ms="841" started-at="2018-11-18T20:20:57Z" finished-at="2018-11-18T20:20:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuitBrowser -->
+      </class> <!-- com.self.fb.org.testscript.TestScript -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
